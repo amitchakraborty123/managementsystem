@@ -16,8 +16,8 @@ SECRET_KEY = '(i#*06f#keydy_fh17bf=$0f6v)^wr^l7*u4gq42m*sztu#2_m'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    # 'managementprogram.herokuapp.com',
-    '*',
+    'managementprogram.herokuapp.com',
+    # '*',
 ]
 
 
